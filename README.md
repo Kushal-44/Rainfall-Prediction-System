@@ -1,4 +1,4 @@
-✨ **Rainfall Prediction System** ✨
+Rainfall Prediction System
 
 📌 **Project Overview**  
 This project implements a machine learning system to **predict rainfall** using Python and historical weather data. The model uses **Random Forest** with hyperparameter tuning (GridSearchCV) for accurate predictions.
